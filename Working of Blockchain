@@ -1,0 +1,13 @@
+Every blockchain has a network of peers. These peers have all the transaction details regarding the currencies that took place before.
+-----
+Step 1 - Someone requests a transaction
+Step 2 - The transaction is broadcasted to Peer (miners) network which consists of computers called as nodes.
+Step 3 - The network then validated the transaction and the user using some algorithm designed for the purpose.
+         The transactions can involve crytocurrency, data, smart contract, or any information.
+Step 4 - Once verified, the transaction are combined with other transaction to create a series of transaction.
+         These transactions are called as blocks and series of blocks are blockchain. This chain is unalterable and permanent.
+The transaction is then completed.
+
+
+Terms in Blockchain
+Mining, ledger, Hash, Altcoin, Block reward, Hashrate, Block height, Mulitsig, Node, P2P, PoW, Solidity
